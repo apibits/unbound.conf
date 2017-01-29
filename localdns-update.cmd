@@ -1,6 +1,7 @@
 @ECHO OFF
 wget -N --no-check-certificate https://github.com/CNMan/unbound.conf/raw/master/unbound/unbound.bogus-nxdomain.China.conf --directory-prefix="E:\Program Files\unbound"
 wget -N --no-check-certificate https://github.com/CNMan/unbound.conf/raw/master/unbound/unbound.forward-zone.China.conf --directory-prefix="E:\Program Files\unbound"
+wget -N --no-check-certificate https://github.com/CNMan/unbound.conf/raw/master/unbound/unbound.local-zone.adhosts.China.conf --directory-prefix="E:\Program Files\unbound"
 wget -N --no-check-certificate https://github.com/CNMan/unbound.conf/raw/master/unbound/unbound.local-zone.hosts.conf --directory-prefix="E:\Program Files\unbound"
 wget -N ftp://ftp.internic.net/domain/named.cache --directory-prefix="E:\Program Files\unbound"
 

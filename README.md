@@ -44,7 +44,7 @@
 
 ![localdns](https://i.imgur.com/4WN9qit.png)
 
-* 运行`localdns-update.cmd`更新配置，亦可手动下载更新`unbound.bogus-nxdomain.China.conf`、`unbound.forward-zone.China.conf`、`unbound.local-zone.hosts.conf`、`dnscrypt-blacklist-domains.txt`、`dnscrypt-blacklist-ips.txt`
+* 运行`localdns-update.cmd`更新配置，亦可手动下载更新`unbound.bogus-nxdomain.China.conf`、`unbound.forward-zone.China.conf`、`unbound.local-zone.adhosts.China.conf`、`unbound.local-zone.hosts.conf`、`dnscrypt-blacklist-domains.txt`、`dnscrypt-blacklist-ips.txt`
 
 ## 说明
 
@@ -54,7 +54,7 @@
 
 * 常用hosts域名配置在`unbound.local-zone.hosts.conf`，配置说明可参考[Unbound+DNSCrypt双保险防DNS污染及劫持](https://goo.gl/IG3K27)
 
-* 广告域名和恶意软件域名配置在`dnscrypt-blacklist-domains.txt`，由DNSCrypt负责过滤
+* 广告域名和恶意软件域名配置在`dnscrypt-blacklist-domains.txt`，由DNSCrypt负责过滤；国内广告域名和恶意软件域名配置在`unbound.local-zone.adhosts.China.conf`，由Unbound负责过滤
 
 * 国内运营商bogus nxdomain ip配置在`unbound.bogus-nxdomain.China.conf`，[烦请帮忙收集各地运营商的bogus nxdomain ip](https://github.com/CNMan/unbound.conf/issues/11)
 
@@ -84,6 +84,10 @@ ipconfig /flushdns
 ## 致谢
 
 * [https://github.com/racaljk/hosts](https://github.com/racaljk/hosts)
+
+* [https://github.com/koala0529/adhost](https://github.com/koala0529/adhost)
+
+* [https://github.com/vokins/yhosts](https://github.com/vokins/yhosts)
 
 * [https://github.com/felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
 
