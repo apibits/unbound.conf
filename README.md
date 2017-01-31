@@ -50,7 +50,7 @@
 
 * 可对局域网或公网服务(需搭建在国内服务器上，否则仍有污染)
 
-* 主要配置文件在北京时间每天5:09、13:09、21:09与上游项目同步更新一次
+* 主要配置文件在北京时间每天5:09、13:09、21:09与上游项目同步更新一次；傻瓜包[localdns.zip](https://dl.cnlic.com/localdns.zip)每天5:30更新一次
 
 * 常用hosts域名配置在`unbound.local-zone.hosts.conf`，配置说明可参考[Unbound+DNSCrypt双保险防DNS污染及劫持](https://goo.gl/IG3K27)
 
