@@ -2916,6 +2916,7 @@
 55.2myip.com
 55.6.87.194.dynamic.dol.ru
 550022.com
+550124673.cn
 554924358.log.optimizely.com
 55511b.com
 5555c0e19278c10ce23e-e43b9b9293b141a8c68c3bbff03519a0.r36.cf2.rackcdn.com
@@ -3046,6 +3047,7 @@
 6063.bapi.adsafeprotected.com
 6067.bapi.adsafeprotected.com
 607.http602.com
+60731134x.cn
 60djx.voluumtrk.com
 60l3j5wg.myutilitydomain.com
 60pictures.com
@@ -3103,6 +3105,8 @@
 6666p.com
 666bukakke.com
 668559.com
+668880909.cn
+668bodog.com
 66av.cc
 66eexx.com
 66mhb.voluumtrk.com
@@ -3112,6 +3116,8 @@
 67.13view.atdmt.com.324.6000.302br.net
 67.6.87.194.dynamic.dol.ru
 671.stats.misstrends.com
+674485809.cn
+678496644.cn
 6789.net
 67lm.com
 67s6gxv28kin.com
@@ -3125,8 +3131,10 @@
 68665565.com
 687-ct.c3tag.com
 68737075.com
+687549613.cn
 688.bitterstrawberry.com
 688ooo.com
+689681562.cn
 68fa.net
 69-webcams.com
 69.172.216.58.72603.9610.302br.net
@@ -3198,6 +3206,8 @@
 700135--nutzung-sicher-validierung.vorkehrung-sicherheitssystem.ml
 700k.com
 700xxx.com
+701199825.cn
+702648469.cn
 70543.9546.302br.net
 7060.la
 70642.9528.302br.net
@@ -3315,6 +3325,7 @@
 79423.analytics.edgesuite.net
 7979-69504_159.c.adprotect.net
 7979.nosubid.blueseek.com
+799866074.cn
 7adpower.com
 7art-screensavers.com
 7as.pl
@@ -4810,6 +4821,7 @@ aboutads.quantcast.com
 aboutgirlslove.com
 aboutharrypotter.fasthost.tv
 aboutmonitoring.com
+aboutsignis.com
 aboutstat.com
 aboutwebservices.com
 above-gw.liveadvert.com
@@ -4971,9 +4983,11 @@ account-pavypal.com
 account-paypai.com
 account-prepaidlimit.com
 account-resolutioncentre.com
+account-resolve-step.com
 account-secure-confirm-and-update.midea.by
 account-security.org
 account-securityservices.com
+account-service-info.com
 account-srvice.com
 account-support-information.tcrsa.co.za
 account-support-pp.net
@@ -4982,6 +4996,7 @@ account-suspicious.com
 account-transaction.com
 account-update.nl
 account-updatelimited.com
+account-veification-step.org
 account-verification-billing.info
 account.cancel-order.amz2update.com
 account.itunes-identification.intel.kelstown-tunes.com
@@ -4997,6 +5012,7 @@ accountfraudtransaction.com
 accountgiveaway.com
 accounthackers.com
 accounthelplimitation.com
+accounthelpservice.com
 accounting.livejasmin.com
 accountingpuzzle.com
 accountlock-demo.iovation.com
@@ -5026,6 +5042,7 @@ accountsmages.dotcloudapp.com
 accountupdate-td.eu
 accountupdate-td.nl
 accountupdate.oldoakvilleslipcover.com
+accountverificat.com
 accountwebupdate.webeden.co.uk
 accsupport-verification.com
 acctsrepro.com
@@ -28356,6 +28373,7 @@ afterdawn.fi.intellitxt.com
 afterdawn.us.intellitxt.com
 afterdownload.com
 afterdownloads.com
+afterfeed.net
 afterforum.com
 afterlabs.com
 aftermoon.net
@@ -29433,6 +29451,7 @@ amazon.secure-center.org
 amazon.us.sing-in.qsaz651dazzadsq651dza651d651s651d65az165d1sqd6s5q4d65sq465dqsds.jcncssdgqsaz651dikjbklokas.radiocoacalco.net
 amazon.us.sing-in.qsaz651dazzadsq651dza651d651s651d65az165d1sqd6s5q4d65sq465dqsds.jcncssdgqsaz651dikjbklokpol.radiocoacalco.net
 amazon.webdirect.cf
+amazonaccountinternationalsupportcenter.org
 amazoncards.dlcodes.com
 amazoncodefree.com
 amazoncodes.freehacks.pw
@@ -29529,6 +29548,7 @@ ameritraade.com
 ameritradeamerivest.112.2o7.net
 ameritradeogilvy.112.2o7.net
 amertazy.com
+amexjob.company
 amexopenprod.122.2o7.net
 amezaga.estudiolat.com
 amfi.gou.sogou.com
@@ -30864,6 +30884,7 @@ app-hack.com
 app-hackss.com
 app-icloud-my.com
 app-icloud.com.br
+app-idcloud.com
 app-ios.org
 app-measurement.com
 app-pageidentify.honor.es
@@ -30877,6 +30898,7 @@ app-storage.elicitapp.com
 app-updateaccount.info
 app-v0.com
 app-verification.com
+app-verificationupdate.org
 app.activetrail.com
 app.adjust.com
 app.adjust.io
@@ -30970,6 +30992,8 @@ appie-assist.com
 appie-authenticate.com
 appie-check.com
 appie-forgot.com
+appie-info.com
+appie-information.com
 appie-intsupport.com
 appie-lphonenid.com
 appie-security.com
@@ -30992,8 +31016,11 @@ apple-answer.com
 apple-apple-appid.com
 apple-apple-store-id.com
 apple-applesecured.com
+apple-azn.com
+apple-caresupport.com
 apple-chese.com
 apple-cilds.com
+apple-customer--support.info
 apple-es.com
 apple-fergotid.com
 apple-fiind.top
@@ -31048,11 +31075,13 @@ apple-itnies.com
 apple-itwes.com
 apple-iulcod.com
 apple-licid.com
+apple-localizar-id.com
 apple-localizar-iphone.com
 apple-lock-ios9.com
 apple-login-appleit-assistenza-apple.com-support.itilprot.com
 apple-losc.com
 apple-mritell.com
+apple-netfind.com
 apple-no866.com
 apple-phone-support.com
 apple-protection.info
@@ -31096,6 +31125,7 @@ apple.imagineenergy.com.au
 apple.it-secure1.store.apple.apple-idacount-italia.terapt.com
 apple.map.ldverificationes.com
 apple.mapconnect.info
+apple.p60731134x.cn
 apple.phishing.at.all.possible.subdomins.of.gwtoys.cn
 apple.www.letv.com
 apple3.20.clcpublication.com
@@ -31125,6 +31155,7 @@ appleid-corps.com
 appleid-dns.com
 appleid-find-usa.com
 appleid-find-verify.com
+appleid-findmydevice.com
 appleid-icloud-seek.com
 appleid-icloud-server.com
 appleid-icloud.cc
@@ -31146,6 +31177,7 @@ appleid.apple.poorteds.com
 appleid.billing.auth.behtechnologicalconcepts.com
 appleidchinaios.com
 appleids.info
+appleidsecuritysurvice.com
 appleidverification.com.hdmombaca.com.br
 appleildicloud.webcindario.com
 appleilocation.support
@@ -31157,6 +31189,7 @@ appleipios.com
 appleitl.rewards-bonanza-2.com
 appleld-appleld.com
 appleld-ios9.com
+appleld-onlineservices.com
 appleldapple.com
 appleldisupport.com
 applelid-ios.com
@@ -35370,6 +35403,7 @@ billpics.com
 billsmithwebonlie.info
 billtipper.com
 billypub.com
+bimaiqingdan.vip
 bimcotechnologies.com
 bimg.abv.bg
 bimg.msk.bg
@@ -35660,6 +35694,7 @@ blm.bz
 blnk.crwdcntrl.net
 blockbuster.112.2o7.net
 blockbustercom.112.2o7.net
+blockchainz-info.com
 blockchaln.co.com
 blockdefense.com
 blockedf9ojq.voluumtrk.com
@@ -35850,6 +35885,8 @@ bmg8u.voluumtrk.com
 bmi.go2cloud.org
 bmjccqfxlabturkmpzzokhsahleqqrysudwpuzqjbxbqeakgnf.com
 bmmetrix.com
+bmo-accountlogin.com
+bmo-accountsecurity.com
 bmo-onlinesecure.comm
 bmobl.voluumtrk.com
 bmorealestate.com.ng
@@ -37263,6 +37300,7 @@ boysandgirlsfamilydaycare.com.au
 boysfood.com
 bozec.eu
 bozet.eu
+bozyrgn.com
 bp.ads.link4ads.com
 bp.specificclick.net
 bp5xs.voluumtrk.com
@@ -37288,6 +37326,7 @@ bpvf-banquepopulaire.net
 bqbbsfdw.be
 bqbbw.com
 bqdesigners.com
+bqfwt.com
 bqktgpxo.secureonlinesale.ru
 bqptlqmtroto.com
 bqqjowpigdnx.com
@@ -39039,6 +39078,7 @@ busanprint.net
 buscadordewebcams.com
 buscamundo.com
 buscandoempleointernacional.com
+buscar-meuiphone.com
 buscarons.com.ar
 buschen.oewabox.at
 bushing.com.mx
@@ -39251,6 +39291,7 @@ bwp.news.com
 bwp.techrepublic.com.com
 bwp.theinsider.com.com
 bwpegsfa.info
+bwpiju.com
 bwvbufmbltmqpehu.us
 bwyckpmsolzk.com
 bx.clickmedia.ro
@@ -41974,6 +42015,7 @@ checker.cityviplink.com
 checker.dumedia.ru
 checker.gameleads.ru
 checkgetantivirus.xyz
+checking-accounts-summary.com
 checking.macsmarin.com
 checkinonlinehere.com
 checkintocash.data.7bpeople.com
@@ -42106,6 +42148,9 @@ chinainfo.ro
 chinajerseyfactory.com
 chinalve.com
 chinashadenet.com
+chinatemai.host
+chinatemai.website
+chinatemai.win
 chinatlz.com
 chinatousaforu.com
 chinauma.net
@@ -43927,6 +43972,7 @@ com-f0bbaec3f23be1a791086d47e699c040.com
 com-footballfan.netmng.com
 com-fraudpreventiongroup.com
 com-gentingresult.net
+com-gmail-login.com
 com-harley.netmng.com
 com-help.site
 com-helpus.info
@@ -43939,6 +43985,8 @@ com-laureat-nagrody.online
 com-limitedsignin.com
 com-locate.website
 com-locked-account.com
+com-login-client-area.com
+com-login.site
 com-magazin.de.adadapter.netzathleten-media.de
 com-magazin.de.intellitxt.com
 com-manager.website
@@ -43949,12 +43997,14 @@ com-myaccount-balance.info
 com-mysterygifts.com
 com-nyobainenak.net
 com-odebrac-nagrode.pw
+com-page-signin.com
 com-payments.com
 com-promotions.us
 com-protect.info
 com-quidco.netmng.com
 com-required-access.com
 com-resolutioncenteprivacyaacount.info
+com-resolutioncenterlimitedaccount.info
 com-resolved.center
 com-resolves-nowss.com
 com-resolvinglimited.com
@@ -43964,6 +44014,8 @@ com-secured-accounts.info
 com-secureinternetional.com
 com-secureverification.com
 com-security-center.info
+com-servic-fatin.info
+com-service-limited.net
 com-sevicedaccountintl.com
 com-sign-inresolving.com
 com-signin-verify-info.com
@@ -43980,9 +44032,13 @@ com-szczesliwy-zwyciezca.xyz
 com-t0p.net
 com-tdameritrade.netmng.com
 com-unauthorised.com
+com-update-awsbilling.com
+com-update-webketipu.net
 com-updatermation-accountlimited.info
+com-verify-signin.com
 com-verifying-account.com
 com-vw.netmng.com
+com-web-apps-vetfdcay.com
 com-webapps-serverengine.com
 com-webapps-service.com
 com-webapps-support.info
@@ -46642,6 +46698,7 @@ cs8.livetex.ru
 cs9.livetex.ru
 csad.cc
 csagov.jinanyuz.com
+csappleld-mail.com
 csbets.us
 csbew.com
 csbjkj.com
@@ -46937,6 +46994,7 @@ curepipe.zezivrezom.org
 curicar.com.br
 curiouserdesserts.com
 curracom.com
+current-icloud-drive-devices.com
 currentlyobsessed.me
 curse-talker.com
 cursecom.ivwbox.de
@@ -46973,6 +47031,7 @@ customerdata-information.com
 customerscreensavers.com
 customersecurelyaccess.com
 customerservice-supportcenter.com
+customersresolutionsummary-helpdeskcenters-authorizations.com
 customersupport-verification.com
 customersupporthelp.com
 customerwelcomet.com
@@ -47049,6 +47108,7 @@ cxocomdev.112.2o7.net
 cxoios.chip.de
 cxoxruotepqgcvgqxdlwwucgyazmbkhdojqzihljdwwfeylovh.com
 cxpixel.bidsystem.com
+cxrjl.com
 cxrmgoybhyrk.com
 cxt.ms
 cxtad.specificmedia.com
@@ -47552,6 +47612,7 @@ d6y2.ads.pof.com
 d6y3.ads.pof.com
 d6y5.ads.pof.com
 d7.zedo.com
+d720031.u-telcom.net
 d74.com.pl
 d7fzz.allaff.0649.pics
 d8.zedo.com
@@ -47875,6 +47936,7 @@ data.logentries.com
 data.marketgid.com
 data.mb8e17f12.website
 data.mobclix.com
+data.mozilla.com
 data.nal.usda.gov
 data.namesakeoscilloscopemarquis.com
 data.neuroxmedia.com
@@ -47976,6 +48038,7 @@ davia.co.id
 david44i.bget.ru
 davidcandy.website.pl
 davidgoldberg12.com
+davissignfi.com
 daw76z57propz.cloudfront.net
 dawa.ero-advertising.com
 dawnframing.com
@@ -49275,6 +49338,7 @@ divorcecarbuyers.com
 divx.112.2o7.net
 divx.adbureau.net
 divx.it
+divyakiran.org
 divyamayurvedic.com
 diwangjt.com
 dixonscouk.112.2o7.net
@@ -50263,6 +50327,7 @@ drive90.com
 driveclean.co.za
 drivecleaner.com
 drivedeal.net
+drivehunt.net
 drivelinemedia.com
 drivepur.com
 driver.skyhookwireless.com
@@ -53367,6 +53432,7 @@ facebok.paikesn.com
 facebokznajomi.blogspot.com
 facebook-app.pl
 facebook-color.5v.pl
+facebook-fb-terms.com
 facebook-hack-password.com
 facebook-hack.org
 facebook-hacks.com
@@ -53465,10 +53531,12 @@ facecooks2.com
 faceculture.justclick.ru
 facedream.ws
 facef.altervista.org
+facefeed.net
 facegamecheat.com
 facehacks.com
 faceinstant.com
 facemail.com
+facemoon.net
 faceoff.112.2o7.net
 facepodgladacz.glt.pl
 faceporn.com
@@ -53476,11 +53544,13 @@ faceportal.pl
 faceraw.net
 faceroll.net
 faceroute.pl
+faceshow.net
 facespy.eu
 facetools.pl
 facetz.net
 faceviewe.blogspot.com
 facewatch.pl
+faceworld.net
 facexploit.com
 facilpravc.com.br
 facta.ch
@@ -54311,6 +54381,7 @@ fhm.uk.intellitxt.com
 fhm.valueclick.net
 fhmonline.us.intellitxt.com
 fhoc.ml
+fhr.data.mozilla.com
 fhserve.com
 fhvjsmtkirihxh.xyz
 fhylnqzxwsbo.com
@@ -54332,6 +54403,9 @@ fiddlefire.net
 fidel.to
 fidelity.rotator.hadj7.adjuggler.net
 fideln.com
+fieldhorse.net
+fieldshow.net
+fieldworld.net
 fiesta-game.com
 fif49.info
 fifa-14-coin-generator.com
@@ -55066,6 +55140,7 @@ floworldonline.com
 flowtec.com.br
 flowuzz.com
 flppy.sakinadirect.com
+flpxypcqulexhphuw.us
 fls-eu.amazon-adsystem.com
 fls-eu.amazon.com
 fls-eu.amazon.de
@@ -57926,6 +58001,7 @@ ge1.ca
 ge365.net
 ge95.com
 gear.ign.us.intellitxt.com
+gearinformer.com
 geazikjazoid.com
 gebzeikincielmagazasi.com
 gee.lanardtrading.com
@@ -58769,6 +58845,7 @@ globalfirstmall.ru
 globalhacks.net
 globalhacks.org
 globalhspvillage.com
+globalinfomedia.co.in
 globalinstrument.ir
 globalinteractive.com
 globalismedia.com
@@ -59068,6 +59145,7 @@ gogetgorgeous.com
 goggl.com
 goggle.com
 gogle-drive.com
+goglgg.com
 gogoangels.com
 gogofly.cjb.net
 gogoplexer.com
@@ -59599,6 +59677,7 @@ greatmeeting.org
 greatness12.zone
 greatnewonlinebonus.xyz
 greatnewsafetyfeatures.xyz
+greatnopseaonline.com
 greatoffers.aavalue.com
 greatoneassociates.com
 greatowork.com
@@ -59773,6 +59852,7 @@ gspro.adocean.pl
 gspro.hit.gemius.pl
 gsspcln.jp
 gstats.cn
+gsuittedoc.mischeclinic.com
 gsujb.voluumtrk.com
 gsway.info
 gsx-appleaccess.com
@@ -59868,6 +59948,7 @@ gtsmobi.com
 gttour.anyhome.co.kr
 gttracking.go2cloud.org
 gtwlbypnwdivtj.us
+gtxfafvoohbc.com
 gu-pix.appspot.com
 gu.5.p2l.info
 guagliano.com.ar
@@ -60601,6 +60682,7 @@ hao222.com
 hao368.com
 hao6385.com
 haoba.info
+haofanli.cn
 haohaowan8.com
 haolew.com
 haomm.com
@@ -60994,6 +61076,7 @@ helpkaden.org
 helpmedb.com
 helpmedownload.com
 helpnet100.com
+helpresolutions.info
 helpsecure-account.com
 helpyoutoconfirme.info
 hem.spray.se
@@ -61417,6 +61500,7 @@ hjhaw.voluumtrk.com
 hjkjhkhjkhj.xyz
 hjlas.com
 hjnvren.com
+hjsdffsfs.aonecommercial.com
 hjtjz.voluumtrk.com
 hjukmfdbryln.com
 hk.adserver.yahoo.com
@@ -62067,6 +62151,7 @@ ht.xtube.com
 ht.youporn.com
 ht344.dyndns-at-work.com
 htankds.info
+htbrs.com
 hthb.pl
 htinua.justclick.ru
 htl.bid
@@ -62355,6 +62440,7 @@ i-games.biz
 i-growth.com
 i-hacked.us.intellitxt.com
 i-lookup.com
+i-mar.com
 i-media.co.nz
 i-mobi.pl
 i-mobile.co.jp
@@ -62720,9 +62806,11 @@ icloud.com.t-l.pw
 icloud05.com
 icloud122.com
 icloud21.com
+icloud25.com
 icloud3.info
 icloud44.com
 icloud75.com
+icloud85.com
 icloudaccounts.net
 icloudapple1.com
 icloudappleisupport.com
@@ -62735,6 +62823,7 @@ icloudidip-ios.com
 icloudiosiphone.com
 icloudipiccid.com
 icloudisr.com
+icloudlocationasia.com
 icloudlocatlon-appleid.com
 icloudlog.com
 icloudlostreport.com
@@ -62746,6 +62835,7 @@ icloudnet.com.pl
 icloudprivacy.info
 iclouds-security.com
 icloudsk.com
+icloudstorage.space
 icloudsupport-login.com
 icloudsupportv.com
 icloudtexas.com
@@ -63106,6 +63196,7 @@ ihm01.ct2.comclick.com
 ihookup.com
 ihoosq.com
 ihouxyds.yi.org
+ihqxhokndcfq.com
 ihualun.com
 ii0.us
 iiaoannnayabbbaggasssajko.com
@@ -63203,6 +63294,7 @@ iluni-psiui.org
 ilunstracje.za.pl
 iluunstracje.wpaski.com
 iluv.clickbooth.com
+iluvcp.com
 iluvtoplay.com
 iluzjaa.za.pl
 iluzjonista.w8w.pl
@@ -63765,6 +63857,7 @@ imobiliariagladimirguterres.com
 imonitor.dhgate.com
 imonitor.nethost.cz
 imonomy.com
+imoveiscarboni.com.br
 imp.adsmogo.com
 imp.bid.ace.advertising.com
 imp.clickability.com
@@ -63782,6 +63875,7 @@ impact.applifier.com
 impact.cossette-webpact.com
 impact.staging.applifier.com
 impactmobile.com
+impactradius-go.com
 impactradius.com
 impacts.alliancehub.com
 impactwrestling.us.intellitxt.com
@@ -63964,6 +64058,7 @@ incomeliberation.com
 incoming.cloud-trax.com
 incomingheremonthlyrunningslmply.com
 incorps.watoconengenharia.com
+incostatus.com
 incotand.com
 increas.eu
 increase-marketing.com
@@ -64305,6 +64400,8 @@ instagram.rezaee.ir
 instagramdeliver.com
 instagramfollowbutton.com
 instagramhack.com
+instagrampaneli.net
+instagramtakipcihizmeti.com
 instalike.eu
 instalike.pl
 install-stats.com
@@ -64367,6 +64464,7 @@ intecyield.jmp9.com
 integral-marketing.com
 integrate.112.2o7.net
 integrate.com
+integratedlogs.com
 integraweb.com.es
 integritybusinessvaluation.com
 intela.com
@@ -64743,9 +64841,11 @@ iphone6forsubs.com
 iphone6win.pl
 iphone7-forsubs.xyz
 iphone7konkurs.pl
+iphone7lucky.com
 iphone7quiz.pl
 iphone7silver-konkurs.pl
 iphonee7s-konkurs.pl
+iphonefinder.net
 iphonefreeoffers.com
 iphonegamehack.com
 iphonegames3g.com
@@ -68530,9 +68630,11 @@ limg.adspirit.de
 limimi8.com
 liminghotel.com.tw
 limitation-securitycenter.com
+limitationverify.com
 limited-account-verify.com
 limited-accountsecure.com
 limited-accsesed.com
+limited-update-account.com
 limited-updatesaccount.com
 limited-verifications.com
 limitedaccount-review.com
@@ -69043,6 +69145,7 @@ lladinserts.us.publicus.com
 llaredlrgn.angelcities.com
 llbb88.com
 llbpropertiesinvestments.com
+llcxijddrwun.com
 llewellins.co.uk
 llhan.com
 lli.org
@@ -69168,6 +69271,7 @@ locatelli.us
 location.appcloudbox.net
 location.fashionises.com
 locationlook.ru
+locations-map.com
 locations.webinm.de
 lock.adtu.me
 lock24.net
@@ -69843,6 +69947,7 @@ ltktourssafaris.com
 ltljm.voluumtrk.com
 ltpwqva.xyz
 ltsetu.com
+ltunes.net
 ltur.112.2o7.net
 ltur.ivwbox.de
 ltylmm.com
@@ -70892,6 +70997,7 @@ manutencaodecompressores.com.br
 manutencaopreventiva.com.br
 manwin.doublepimp.com
 maoshanhouyi.cc
+map-findidevicelocation.review
 map.adsniper.ru
 map.media6degrees.com
 map.pop6.com
@@ -72002,6 +72108,7 @@ megan-farrier.us
 megan-schank.us
 megan-stagner.us
 meganordeste.com.br
+megaonlinemarketing.com
 megapanel.gem.pl
 megaplayz.com
 megaplex.oewabox.at
@@ -72172,6 +72279,7 @@ meslekigirisimciler.org.tr
 mesohair.pl
 mesopotemia222.zapto.org
 mesotherapy.jino-net.ru
+message-verify-craigslist.org
 messagent.duvalguillaume.com
 messagent.sanomadigital.nl
 messages-safety-your.atspace.cc
@@ -73113,6 +73221,7 @@ mktgcdn.de.coremetrics.com
 mkto-c0059.com
 mkto-k0029.com
 mktseek.com
+mkzrc.com
 mkzynqxqlcxk.com
 ml314.com
 ml8m.com
@@ -73748,6 +73857,7 @@ motd.pinion.gg
 motefugue.com
 motel69.com
 motherboard.net
+mothernature.net
 motherwagon.net
 motifcdn.doubleclick.net
 motifcdn2.doubleclick.net
@@ -74680,6 +74790,7 @@ myscreen.com
 mysearch-engine.com
 mysearch-online.com
 mysearchhome.com
+mysecuredpage.com
 mysecurefilesviadrop.com
 mysecurity.paypal.com.webscr.paypalogin.accountinfocase.resolve.paypal.comsecure.connection.ppsecure.paypal.com.sea-likes.com
 myseostats.com
@@ -74934,6 +75045,7 @@ naijahacking.tk
 naijahacklord.tk
 nailbytes1.com
 nailfirst.net
+nailshow.net
 nailslinks.com
 nainasdesigner.com
 naj.sk
@@ -75159,6 +75271,7 @@ nba2k15vcgenerator.com
 nbads.com
 nbalivemobilehack.net
 nbanba.lt
+nbaselling.com
 nbasic.sitestat.com
 nbbljlzbbpck.com
 nbc.adbureau.net
@@ -75655,6 +75768,7 @@ newpsncodegenerator.com
 newpsncodegenerator.org
 newreward.newshoppingbonuspoints.xyz
 news-finances.com
+news-location.com
 news-report24.com
 news-today.pw
 news-track.com
@@ -75958,6 +76072,7 @@ nkfyfs.cn
 nkgamers.com
 nkk31jjp.com
 nkkreqvurtoh.com
+nklivofyjkbt.com
 nkobetoursandtravel.com
 nkootxbt.com
 nkqaratk.us
@@ -76099,6 +76214,7 @@ nodes.double6affiliation.com
 nodes.r66t.com
 nodes.reactivpub.fr
 nodevice.uk.intellitxt.com
+nodocuwel.com
 nodomain31005d2d-5f5.board10.linux.kolst.it
 nodomain419cdab1-14e.board10.linux.kolst.it
 noelle-traxler.us
@@ -77453,6 +77569,7 @@ ohtuleht.spring-tns.net
 ohtulehtadee.hit.gemius.pl
 ohtulehtee.adocean.pl
 ohv1tie2.com
+ohvibgdac.com
 oi.webnavegador.com.br
 oi2cz.voluumtrk.com
 oidiscover.com
@@ -77857,10 +77974,12 @@ online-school.petrovka.info
 online-schools.petrovka.info
 online-seans24.pl
 online-secure-information.com
+online-security-assist.com
 online-single.petrovka.info
 online-skype-pro-download.com
 online-skype-pro-upgrade.com
 online-software-checker.com
+online-support-customers-id30032.com
 online-support-id0283423.com
 online-support-id20012.com
 online-tarot-reading.beesearch.info
@@ -77956,6 +78075,7 @@ onlinerewardsclub.com
 onlinesecuremobile.info
 onlineseospecialist.com
 onlineservice-account.com
+onlineservices-appleld.com
 onlineservices.wellsfargo.com.agserve.com.au
 onlineservicessupport.com
 onlineshopeforusa.in
@@ -78909,6 +79029,7 @@ p27dokhpz2n7nvgr.12gzrv.top
 p27dokhpz2n7nvgr.1321z6.top
 p27dokhpz2n7nvgr.13gmvm.top
 p27dokhpz2n7nvgr.14gmtu.top
+p27dokhpz2n7nvgr.15jznv.top
 p27dokhpz2n7nvgr.15l2ub.top
 p27dokhpz2n7nvgr.15nhsf.top
 p27dokhpz2n7nvgr.15rnwa.top
@@ -78917,9 +79038,11 @@ p27dokhpz2n7nvgr.16fohp.top
 p27dokhpz2n7nvgr.18dawg.top
 p27dokhpz2n7nvgr.1bniyw.top
 p27dokhpz2n7nvgr.1cauz3.top
+p27dokhpz2n7nvgr.1cbcpy.top
 p27dokhpz2n7nvgr.1chy1m.top
 p27dokhpz2n7nvgr.1cpb4z.top
 p27dokhpz2n7nvgr.1cpy1q.top
+p27dokhpz2n7nvgr.1cq7gd.top
 p27dokhpz2n7nvgr.1dlcbk.top
 p27dokhpz2n7nvgr.1dp6un.top
 p27dokhpz2n7nvgr.1em2j4.top
@@ -79499,7 +79622,9 @@ pautaspr.com
 pave.elisecries.com
 pavelbagryancev.justclick.ru
 pavpal-centers.com
+pavpal-money.com
 pavpal-weepbbp.info
+pavpal-yezzy.com
 pawelkondzior.pl
 paxil.1.p2l.info
 paxito.sitetracker.com
@@ -79588,6 +79713,7 @@ paypal-recovery-informationst.com
 paypal-resolutionaccount-dispute.com
 paypal-resolve.tips
 paypal-safepayment.com
+paypal-secure-limited.com
 paypal-secure.at-kundensicherheitscheck2016032016.ru
 paypal-secureupdate.com.server27.xyz
 paypal-security-account-confirmation.agrawalmetalworks.com
@@ -79740,6 +79866,7 @@ paypalupdate-resolutioncenter.com
 paypalupgrade.biz
 paypalverify-uk.com
 paypalvsgooglecheckout.com
+paypau-info-credit.com
 paypay.netne.net
 paypcontact.com
 paypel.limited.account.bravocolombia.com
@@ -79890,6 +80017,7 @@ pdaconference.com
 pdbaewqjyvux.com
 pde.lp4.io
 pdf-4downloadfreeonline.com
+pdf-guard.com
 pdf-platinum.info
 pdf-telecharger.org
 pdf.forbes.com
@@ -80472,6 +80600,7 @@ picshic.com
 picsinfog.com
 picsman.su
 picsti.com
+picstunoar.com
 pict4click.com
 pict4second.com
 pictela.net
@@ -81736,6 +81865,7 @@ poseparty.com
 posibilities_en.popunder.net
 positive-displacement-meter.com
 possibilities.popunder.net
+possiblecover.net
 possibledollar.net
 posst.co
 post-1jp.com
@@ -82146,6 +82276,7 @@ private.hotelcesenaticobooking.info
 private4.com
 privatecams.ws
 privatecash.com
+privatedni.com
 privatelivewebcams.com
 privaterealestatelending.com
 privatesangels.com
@@ -82301,6 +82432,7 @@ profitsiegenetwork.go2cloud.org
 profitsitesbiz.com
 profitstat.biz
 profitzone.com
+profl.org.za
 proflashdata.com
 profm.count.brat-online.ro
 profootballweekly.us.intellitxt.com
@@ -83597,6 +83729,7 @@ queen-domain.net
 queen.albinass.com
 queenmult.link
 queensgrocery.com.sg
+queenshow.net
 quelldateien.de
 quenotelacuelen.com
 quensillo.com
@@ -84057,6 +84190,7 @@ raskosamba.com
 raskrutka.ucoz.com
 rasml.voluumtrk.com
 rasmussenreports.us.intellitxt.com
+rastrear-seguro.com
 rat-on-subway.mhwang.com
 rata.ero-advertising.com
 ratchadaphoto.com
@@ -84409,8 +84543,10 @@ recovery-info.com
 recovery-page.com
 recoveryaccount-limited.com
 recoverybusinessmanagerpage.esy.es
+recoverydevice-support.com
 recoveryrryouraccounts.com
 recoverystalbans.com
+recoverysupport-device.com
 recreation-leisure-rewardpath.com
 recreationalequipmen.tt.omtrdc.net
 recreativ.ru
@@ -84799,6 +84935,7 @@ reloadedcracking.com
 reloadedhacks.com
 reloadedhacks.org
 relogin-myaccount.com
+reloginsecureupdateinformation.com
 relogintoupdateyourinformationdetalis.com
 reltime-2014.ru
 reltime2012.ru
@@ -84999,10 +85136,14 @@ resmbtreck.esy.es
 resolusion-paypalcentere.com
 resolution-accounts.info
 resolution-center-update.info
+resolution-paymentdispute.com
 resolution.netflix.link.confirm.user.auth.37548471.intro10.com
 resolution.netflix.link.confirm.user.auth.37548472.intro10.com
+resolutioncenters-account.com
 resolutions-custredirscr-secure.com
+resolve-accounters.info
 resolve-fraud-information.com
+resolve-help-securement.com
 resolve-limitations.xyz
 resolve-payment-activity.com
 resolve-problem.net
@@ -87211,6 +87352,7 @@ scorpion-show.ro
 scotia-support.com
 scotia-verify.com
 scotia1-verifications.com
+scotiabank-3.com
 scotiabank-secure.com
 scotiabank-security.com
 scotiabank-update.com
@@ -87329,6 +87471,7 @@ scripts.view-ads.de
 scripts.webspectator.com
 scripts.xrenoder.com
 scriptshead.com
+scriptwap1.360doc.cn
 scrollbelow.com
 scrollingads.hustlermegapass.com
 scrooge.channelcincinnati.com
@@ -87626,6 +87769,7 @@ sebastiansanni.org
 sebcotrk.com
 sebeadmin.justclick.ru
 sebyc.es
+sec-appleid.com
 sec-updt-pypai.info
 sec.appleid-apple.store.fjerh.decoys.com.ar
 sec.daten-ueberpruefungsservice.net
@@ -87685,6 +87829,7 @@ secure-ads.pictela.net
 secure-americanexpress.net
 secure-ams.adnxs.com
 secure-anazon-service.com
+secure-app-checkpoint.com
 secure-apps.at.ua
 secure-asia.imrworldwide.com
 secure-assets.rubiconproject.com
@@ -87697,6 +87842,7 @@ secure-dk.imrworldwide.com
 secure-drm.imrworldwide.com
 secure-ds.serving-sys.com
 secure-eu.imrworldwide.com
+secure-fraud.info
 secure-gl.imrworldwide.com
 secure-icloudin.com
 secure-icloudtrace.com
@@ -87726,6 +87872,7 @@ secure-uk.imrworldwide.com
 secure-unlockaccount.com
 secure-update-payment-informationwebapps.com
 secure-update.apple.canada2app.com
+secure-updateinformationwebapps.com
 secure-updates-information.com
 secure-us.imrworldwide.com
 secure-us.myjino.ru
@@ -87843,6 +87990,7 @@ secured.westsecurecdn.us
 securedliveuploads.com
 securedoc.pagesperso-orange.fr
 securedownload01.net
+securee-acces.com
 securefile.info
 securefileupload.com
 secureinfouserapp.blogdns.org
@@ -87861,6 +88009,7 @@ secureonline.kandrphotography.com
 secureonlinesale.ru
 securepaths.com
 securepaypalaccount.com
+secureprivacy-webserver.net
 securepubads.g.doubleclick.net
 secureredirect101.com
 secureresolveupdate-information.com
@@ -87868,6 +88017,7 @@ securerr.com
 securerunner.com
 secures-account.info
 secures-logconfirmation.com
+secureshand.com
 securesignupoffers.net
 securesignupoffers.org
 securesoft.info
@@ -87876,6 +88026,8 @@ securetabs.com
 securetags.w55c.net
 securetracking2.com
 securetrk1.com
+secureupdate-information-webapps.com
+secureupdate-payment-information-webapps.com
 secureupdate-payment-informationwebapps.com
 secureupdateinformation-webapps.com
 secureupdatenotification.com
@@ -87883,6 +88035,7 @@ securewealth.us
 securewebsiteaccess.com
 securexone.com
 securezone33.xorg.pl
+securiity-identity-mailnoticepro9.com
 securinews.free.fr
 securitain.com
 securitas232maximus.xyz
@@ -87893,6 +88046,8 @@ securite.01net.com
 securitecontrolepass.com
 security-account.biz
 security-e.org
+security-help-intl.com
+security-id-apple.com
 security-intl-services.com
 security-intl.biz
 security-message.support
@@ -87900,6 +88055,7 @@ security-reply.com
 security-system-failure-alert7609.info
 security-update.putrikitty.com
 security-updates-information-user-webapps.action-scure.com
+security-verifed.com
 security-websiteonline.com
 security.ivwbox.de
 security.usaa.com.inet.wc.security.center.0wa.ref.pub.auth.nav-sec.themeatstore.in
@@ -88423,6 +88579,7 @@ service-activityaccount.com
 service-aktualisierung.info
 service-amaz0nsupport.com
 service-fermeture.cs-go.fr
+service-for-update-your.info
 service-free.net
 service-id-detail.com
 service-impots.org
@@ -88432,6 +88589,7 @@ service-informations-limited.com
 service-kiert.com
 service-paypal-information.sweddy.com
 service-paypal.com.verification.your.account.riktravel.ge
+service-resolution-service.net
 service-stat.tbn.ru
 service-update-account-billing.info
 service-update.com.icptannauniv.com
@@ -88515,6 +88673,7 @@ services1.adtech.fr
 services1.adtech.us
 servicesalimited-account.com
 servicesecur.com
+servicesloginlimited-account.net
 servicesnext.net
 servicesonlinappsuser.getmyip.com
 servicesos1.org
@@ -88544,6 +88703,7 @@ servlet.adten.eu
 servlet.jkyitv.mail.jandaldiaries.com
 servlets.kliks.nl
 servopayp4l.000webhostapp.com
+servsappsupdateid.com
 servserv.generals.ea.com
 servustats.com
 servustv.oewabox.at
@@ -88606,6 +88766,7 @@ sevenstars7.com
 seventeenvideo.com
 seventin17.com
 seventynine.go2cloud.org
+severafinger.net
 severalkitchen.net
 sevitec.uy
 sevrisca.com
@@ -89102,6 +89263,7 @@ shubhrealestates.com
 shufflepointads.go2cloud.org
 shuihulu.com
 shujuwu.com
+shunvquan.net
 shupup.com
 shy-angels.over-blog.com
 shydnt.com
@@ -89224,8 +89386,10 @@ signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
 signin-ebay.ml
 signin-member.land.ru
 signin-resolutionauthpolicyagreement.com
+signin-resolutionauthzpolicyagreements.com
 signin-serviceauthorizepolicyagreement.com
 signin-serviceauthorizepolicyagreements.com
+signin-serviceauthzpolicyagreement.com
 signin-servicesauthpolicyagreement.com
 signin-servicesauthpolicyagreements.com
 signin.ebay.it.ws.ebayisapi.dll.signin.italy.gipponline.com
@@ -89300,6 +89464,7 @@ simpleads.net
 simpleboard.net
 simplebridge.net
 simpledownloadz.com
+simpleenough.net
 simplehealthsolutions.info
 simplehitcounter.com
 simplekitchen.net
@@ -89560,6 +89725,7 @@ skovia.com
 skpc.org.au
 skracajmyto.waw.pl
 skracarka.waw.pl
+skrill-terms.com
 skroc-link.ga
 skrocto.waw.pl
 skuawill.com
@@ -89963,6 +90129,7 @@ smrtclick.com
 smrtpxl.advertising.com
 sms-ads.com
 sms-applecare.com
+sms-icloud.info
 sms-konkurs.pl
 sms-mmm.com
 sms-xxx.com
@@ -91203,6 +91370,7 @@ starpulse.us.intellitxt.com
 starsads.com
 starserg1984.net
 starstablehack.net
+start-resolutions.com
 start-secured.info
 start.9hz.com
 start.badults.se
@@ -92367,6 +92535,7 @@ storm-hacks.com
 storm.applifier.com
 stormpages.com
 stormydays.co.uk
+storyfeed.net
 stoutoniaonline.com
 stowegood.com
 stp-tracker.inside-graph.com
@@ -92450,6 +92619,7 @@ strikead.com
 strikeadcdn.s3.amazonaws.com
 strikeiron.com
 strings.com.mx
+stripe.solutions
 stripgalleries.net
 stripplayer.com
 striprtg.pl
@@ -92554,6 +92724,7 @@ subchat.net
 subdomain.chase-reg.net16.net
 subeihm.com
 subemania.com
+subjectcompany.net
 subjectshore.net
 subkiller.pl
 sublimedirectory.com
@@ -92646,12 +92817,14 @@ summary-accountsmerchant.com
 summary-activitys.com
 summary-cgiupdateaccount.info
 summary-my-account.com
+summary-service-update.com
 summary-system.services
 summary-updateinc.com
 summary-updates-resolved.com
 summary-updatesinfo.com
 summaryaccount-resolved.com
 summaryaccountaccess.support
+summarycenterrmailsss.com
 summarycgi-securepypl.com
 summarysupport.account-activityservice.com
 summer.securenet-server.net
@@ -92787,6 +92960,7 @@ supplements.1.p2l.info
 supply.upjers.com
 supplyframe.com
 supplyorderc.com
+suppor-inc-83acount9884.com
 support--icloud.online
 support--iphone.online
 support-acccount.com
@@ -92853,6 +93027,8 @@ supporthdit.16mb.com
 supporthelp-accountrestored.com
 supporticloud-verify.info
 supportlandofmarkcs.cechire.com
+supportlimitedaccount-payapal.com
+supportlimitedaccount-porayal.net
 supportlimitedservices-accounttts.com
 supportlogin9.ru
 supportnet.de.intellitxt.com
@@ -92975,7 +93151,9 @@ susi.adtech.us
 suspensionveriviedaccountlimitedconfirmation.suspension-redirect.com
 suspicious-accountt.com
 suspicious-activity.bid
+suspicious-customer-activity.com
 suspicious-recovery.com
+suspicious-systems.com
 suspicious-transaction-billing.com
 suspicious.sign-in.chrome.31122016.bisonkids.com
 suspiciouslimited-accountfraud.com
@@ -93066,6 +93244,8 @@ sweetkaysla.com
 sweetkitchen.net
 sweetkrissy.com
 sweetmedia.org
+sweetnature.net
+sweetneedle.net
 sweetpacks.go2cloud.org
 sweetreliefworks.com
 sweetsforfree.com
@@ -94107,6 +94287,7 @@ teambetaffiliates.com
 teamcheat.com
 teameda.comcastbiz.net
 teameda.net
+teamnlogs.com
 teamripmax.com
 teamspeak-plugins.com
 teamtalk.uk.intellitxt.com
@@ -95872,6 +96053,7 @@ tr.im
 tr.interlake.net
 tr.mobiadserv.com
 tr.newsletter.capdecision.fr
+tr.note001.com
 tr.prospecteye.com
 tr.sjc.contextweb.com
 tr.tu.connect.wunderloop.net
@@ -97733,6 +97915,8 @@ twitter-badges.s3.amazonaws.com
 twitter.cm
 twitter.login.kevanshome.org
 twitter.secure.bzpharma.net
+twitterbusiness.site
+twitterbusiness.website
 twittercounter.com
 twitterforweb.com
 twittericon.com
@@ -98482,6 +98666,7 @@ undertonenetworks.com
 undetectedcheats.com
 undid-59.tk
 unearthliness.com
+unexpected-activity-secure.com
 unfake.it
 unfurled.com
 uni.ivwbox.de
@@ -98590,6 +98775,7 @@ unlimitedhacks.com
 unlimitedmoneycheatgta5.net
 unlimitedtextads.com
 unlimitedtoable.org
+unlimitedupdate.com
 unlink.altitude.lv
 unlock-device.net
 unlockedweddingsandevents.com.au
@@ -99753,7 +99939,10 @@ verdict.abc.go.com
 verfer.com
 vergolder-info.de
 vericlick.com
+verifconfrimationsmoreinfomation.reviews
 verifconfrimationsucureupdate.com
+verifcustomationinfomration.com
+verifed-information-service.net
 verificar-apple.com
 verificar-appleidsecurity.com
 verificarmiidapp.com
@@ -99763,6 +99952,7 @@ verification-id-update.security.token.ios.apple2016.device.productostrazzo.com
 verification-idappleunconfirmation.server-ibn-rif.com
 verification-impots.gzero.com.mx
 verification-need.com
+verification-proses.com
 verification-requested.charlycarlos.com
 verification-security-system.cn.com
 verification-setting.com
@@ -99789,8 +99979,11 @@ verify-account-customer.amm-ku.com
 verify-facebook-account.xyz
 verify-icloud-apple.com
 verify-lab.com
+verify-message-craigslist.org
 verify-myaccount-paypal.com
 verify-page.fbnotification-inc.com
+verify-payments.info
+verify-scotiabank.com
 verify-secure-limit.com
 verify-status.info
 verify-update-account.com
@@ -99802,7 +99995,9 @@ verify.pncbanks.org
 verify.pressnaija.com
 verify.security.google-policy.us.equipamentosac.com.br
 verifyaccount-paypal-account.bioflowls.com
+verifyaccount-service.com
 verifyfbpage.com
+verifyfca.com
 verifying-payment.com
 verifyingservices.nepaparanormal.com
 verifyingturbotax.changingmyself.tv
@@ -104709,12 +104904,15 @@ walentynykaneurologgdansk.pl
 walesedu.com
 walgreenspharmacyrx.net
 walgrns.112.2o7.net
+walkhear.net
+walkhunt.net
 walkingshanghai.com
 walkintubb.bid
 walklight.net
 walkonwheels.net.au
 walkprint.com
 walkthedinosaur.com
+walkworld.net
 wall-streetro.count.brat-online.ro
 walla.yad2.co.il
 wallacemaloneymindanao.info
@@ -104801,6 +104999,7 @@ wapster.malutki.pl
 wapster.pl
 waptrick.com
 waqasawanwaqasawan.hostingsiteforfree.com
+waranta.club
 warco.pl
 warcommanderhack.com
 warcry.us.intellitxt.com
@@ -105390,6 +105589,7 @@ webspectator.com
 websponsors.com
 websponsors.net
 websquadinc.com
+websrccs-general-paypal-setting-weebapps.com
 websrccs-paypal-webapps.com
 websrcs-support-paypal-function-weebapps.com
 websrrcs-privacy-paypal-upgrade-webapps.com
@@ -105482,11 +105682,13 @@ weddingbooklets.sg
 weddingeeos.com
 weddings.searchwho.com
 wednesdayallow.net
+wednesdayhunt.net
 wednesdaymoon.net
 wee.co.il
 wee4wee.ws
 weeb-tv.pl
 weebgazeta.pl
+weebsrcs-setting-paypal-verify-weebapps.com
 weecia.7173.clicksurecpa.com
 weed-forums.ml
 weedoit.fr
@@ -106024,6 +106226,7 @@ window1.com
 window32.in.net
 window32registryerroralert.in
 window64.in.net
+windowcompany.net
 windows-crash-report.info
 windows-errorx.com
 windows-system-support-reqired.info
@@ -106095,6 +106298,7 @@ winstonchurchill.ca
 winstoreonline.com
 winsxs-32.com
 winter.metacafe.com
+wintercompany.net
 winterkitchen.net
 winterrowd.us.intellitxt.com
 winteryield.jmp9.com
@@ -106229,6 +106433,7 @@ wjtqjleommc4z46i.zclhx9.bid
 wjttowell.com
 wka8.com
 wkexsfmw.com
+wkgaqvvwvqjg.com
 wkggjmkrkvot.com
 wkhychiklhdglppaeynvntkublzecyyymosjkiofraxechigon.com
 wklyhvfc.com
@@ -106837,6 +107042,7 @@ www-beta.statcounter.com
 www-cm.com
 www-google-analytics.l.google.com
 www-google.nl
+www-mac-icloud.com
 www-obdesign-com-tw.b.appier.net
 www-old.nastydollars.com
 www-path.com
@@ -111215,6 +111421,7 @@ www.icecars.com
 www.icentric.net
 www.icityfind.com
 www.iclocd-id-cupa.xyz
+www.icloud-appc.com
 www.icloud-appied.com
 www.icloud-apple-1.com
 www.icloud-apple-2.com
@@ -117123,6 +117330,7 @@ xad.com
 xadcentral.com
 xads.100links.com
 xads.zedo.com
+xafkduq.com
 xajx.com
 xamateurpornlic.www1.biz
 xanax-online.dot.de
@@ -117508,6 +117716,7 @@ xq1.net
 xq12.com
 xq199.com
 xqhgisklvxrh.com
+xqjmz.com
 xqopbyfjdqfs.com
 xqqd.net
 xquad.su
@@ -117959,6 +118168,7 @@ yiwad.com
 yiwuds.com
 yixingim.com
 yiyycuqozjwc.com
+yizhequan.vip
 yj.moatads.com
 yjbys.org
 yjjglyoytiew.com
@@ -118059,6 +118269,7 @@ youfumei.com
 yougamevox.com
 yougube.com
 youho.com
+youhuig.top
 youjizz.com
 youknownow.ru
 youko56.com
@@ -118545,6 +118756,7 @@ zbx02.ixn.local.vmsn.de
 zbx02.ixn.vmsn.de
 zbxproxy01.bob.local.vmsn.de
 zbxproxy01.con.local.vmsn.de
+zbxzcrldzzgv.com
 zbyek.5v.pl
 zbzppbwqmm.biz
 zc.zeroredirect1.com
