@@ -10,9 +10,6 @@ creatives.*
 banners.*
 stats.*
 telemetry.*
-theoads.com.
-telemetry.appex.bing.net:443
-130.211.230.53
 napredakjajce.ba
 btf.unbi.ba
 www.facebok.com.ba
