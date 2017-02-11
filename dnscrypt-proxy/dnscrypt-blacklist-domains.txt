@@ -2,7 +2,6 @@
 ad.*
 tag.*
 oascentral.*
-tracker.*
 banner.*
 oas.*
 ads.*
