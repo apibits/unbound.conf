@@ -14020,6 +14020,7 @@ as5000.com
 server2.as5000.com
 server.as5000.com
 95558000.com
+p4.95558000.com
 p6.95558000.com
 p7.95558000.com
 p8.95558000.com
@@ -14167,6 +14168,7 @@ ijquery10.com
 sigma2020.com
 lpmxp2020.com
 www.lpmxp2020.com
+zhaopai020.com
 down.hit020.com
 f.716120.com
 2666120.com
@@ -20005,6 +20007,7 @@ click.union.ucweb.com
 admaster.union.ucweb.com
 slot.union.ucweb.com
 lau1.slot.union.ucweb.com
+client.video.ucweb.com
 puds.ucweb.com
 cms.ucweb.com
 lanzar.publicidadweb.com
@@ -20326,6 +20329,7 @@ images.adkmob.com
 ads.lmmob.com
 code.guomob.com
 ypmob.com
+c.ypmob.com
 c.dokrmob.com
 ad.dokrmob.com
 sponsormob.com
@@ -40139,6 +40143,7 @@ p.placemypixel.com
 ivypixel.com
 prizel.com
 zhidao.baidu.com.mjjdfl.com
+news.baidu.com.mjjdfl.com
 www.baidu.com.mjjdfl.com
 summititlefl.com
 yepiafsrxffl.com
@@ -41206,6 +41211,7 @@ lovestyl.com
 dcgbswcvywyl.com
 arboxyl.com
 xhbqczl.com
+db.xhbqczl.com
 mftbfgcusnzl.com
 csgofrozl.com
 dsyxzl.com
@@ -48137,6 +48143,7 @@ lokhlp.com
 www.lokhlp.com
 billhlp.com
 jahsrhlp.com
+m1s116.yyhlp.com
 m1u1227.yyhlp.com
 aashiyanallp.com
 softwareupdaterlp.com
@@ -60913,6 +60920,7 @@ www.luckmembers.com
 srivelavantimbers.com
 celebrity-phone-numbers.com
 celebrity-numbers.com
+d1.mobaders.com
 lp.videos-free-downloaders.com
 traffictraders.com
 www.traffictraders.com
@@ -68763,6 +68771,7 @@ adserver.advertist.com
 cdn.crowdtwist.com
 taf.socialtwist.com
 cdn.socialtwist.com
+funexist.com
 banner.pethobbyist.com
 fjkst.com
 ping.aclst.com
@@ -73832,6 +73841,7 @@ cdns.mydirtyhobby.com
 tracking.bafby.com
 a.tnlby.com
 iroby.com
+s.iroby.com
 comercialherby.com
 chaseonline.chase.com.richmorby.com
 donrigsby.com
@@ -77277,6 +77287,9 @@ file.ipinyou.com.cn
 ipintu.com.cn
 fengfengtiecrv.com.cn
 moodoocrv.com.cn
+images2.4hw.com.cn
+jb.4hw.com.cn
+ssp.4hw.com.cn
 stkjw.com.cn
 img.cnsjx.com.cn
 mtsx.com.cn
@@ -82144,6 +82157,8 @@ vyohacxzoue32vvk.p9su2u.top
 nowtestpc.updatenewfresh4u.top
 b99u.top
 wjtqjleommc4z46i.h8prbu.top
+jb.mbaidu.top
+js.mbaidu.top
 52uo5k3t73ypjije.31wkhu.top
 unocl45trpuoefft.31wkhu.top
 27lelchgcvs2wpm7.b7mciu.top
@@ -90884,6 +90899,8 @@ buy-onlinecytotec.net
 www.buy-onlinecytotec.net
 ads.uigc.net
 creativos.ads.uigc.net
+b17.shangc.net
+j17.shangc.net
 clicktalecdn.sslcs.cdngc.net
 www.exitrafic.net
 x-traffic.net
@@ -117765,6 +117782,7 @@ cleanup-registry.net
 sowerindustry.net
 remembercentury.net
 adserv.newcentury.net
+ww.jiaeasy.net
 cleanshavenpussy.net
 www.cleanshavenpussy.net
 adsafety.net
